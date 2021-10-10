@@ -1,0 +1,17 @@
+.trendingTitle {
+    font-family: inherit;
+    margin-left: 20px;
+}
+
+.trendingLink {
+    color: #5050ff;
+    font-weight: 500;
+}
+
+.trendingLink:active {
+    color: palevioletred;
+}
+
+.List {
+    margin-left: 40px;
+}

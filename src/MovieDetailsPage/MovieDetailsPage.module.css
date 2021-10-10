@@ -1,0 +1,44 @@
+.movieCardContainer {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 16px;
+    /* width: 100vh; */
+    list-style: none;
+    box-shadow: 0 10px 5px -5px rgba(30, 129, 204, 0.2);
+}
+
+.movieAboutList {
+    list-style: none;
+}
+
+.movieCardImg {
+    margin-left: 40px;
+    height: 300px;
+    /* width: 200px; */
+}
+
+.additionalInfoLink {
+    color: #5050ff;
+    font-weight: 500;
+}
+
+.additionalInfoLinkActive {
+    color: palevioletred;
+}
+
+.additionalIntoList {
+    margin-left: 40px;
+}
+
+.addInfoTitle {
+    margin-left: 40px;
+}
+
+.goBackBtn {
+    margin-left: 40px;
+    margin-bottom: 5px;
+}
+
+.err404 {
+    margin-left: 40px;
+}

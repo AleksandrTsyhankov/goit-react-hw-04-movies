@@ -1,0 +1,19 @@
+.castItem {
+    list-style: none;
+}
+
+.circle {
+    display: inline-block;
+    height: 5px;
+    width: 5px;
+    margin-bottom: 2.5px;
+    margin-right: 5px;
+    border-radius: 50%;
+    background-color: black;
+    color: black;
+}
+
+.profileImg {
+    /* width: 100px; */
+    height: 300px;
+}

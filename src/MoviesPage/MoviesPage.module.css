@@ -1,0 +1,37 @@
+.moviesTitle {
+    font-family: inherit;
+    margin-left: 20px;
+}
+
+.searchContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 40px;
+}
+
+.searchInput {
+    width: 200px;
+    height: 15px;
+    border-color: rgba(30, 129, 204);
+}
+
+.searchInput:focus {
+    outline: palevioletred;
+    border-color: palevioletred;
+}
+
+.searchBtn {
+    margin-left: 5px;
+    height: 20.978px;
+    background-color: rgba(30, 129, 204, 0.2);
+}
+
+.trendingLink {
+    color: #5050ff;
+    font-weight: 500;
+}
+
+.trendingLink:active {
+    color: palevioletred;
+}
